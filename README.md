@@ -1,3 +1,11 @@
+# macos-quick-image-resizer
+
+## Features
+
+- Lives in your Finder
+- Quick and Easy
+- Multithreaded for batch processing
+
 ## Installation
 
 1. Run `install.sh`
@@ -16,3 +24,7 @@ Currently there no options. You can adjust the default settings in the script in
 
 - `-resize 2560x1440\>`will shrink everything that is larger to the maximum height/width - ratio will be kept
 - `-quality 80` will compress the jpg to quality of 80% (0-100%)
+
+## Screenshot
+
+<img width="946" alt="screenshot" src="https://user-images.githubusercontent.com/2059754/145831038-0b13f458-ec8a-40f6-bc38-6c1383d92722.png">
